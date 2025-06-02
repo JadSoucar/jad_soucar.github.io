@@ -7,7 +7,7 @@ excerpt: ' We introduce three axiomatic principles of energy-efficient decision 
 date: 2024-11-29
 #venue: 'Journal 1'
 #slidesurl: 'http://academicpages.github.io/files/QuantumNoise_Slides.pdf'
-paperurl: 'http://jad_soucar.github.io/files/A_Model_Predictive_Control_Deep_Q_Learning_Approach_to_Wayfinding.pdf'
+paperurl: 'http://JadSoucar.github.io/files/A_Model_Predictive_Control_Deep_Q_Learning_Approach_to_Wayfinding.pdf'
 #bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 #citation: 'Jad Soucar, Ninaad Surana. (2024). &quot;Autonomous Trading Using Deep Q Learning &quote;'
 ---

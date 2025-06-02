@@ -6,8 +6,8 @@ permalink: /publication/2024-08-15-QuantumNoise
 excerpt: ' We introduce the basics of quantum computing and simulation of quantum systems on classical computers. We then discuss noise in quantum systems and how instances of noise are classically modelled, along with the difficulties of simulating quantum noise on classical computers. We introduce an extension of the T-Gadget to classically simulate thousands of instances of dampening noise within reasonable memory constraints.'
 date: 2024-08-15
 #venue: 'Journal 1'
-slidesurl: 'http://jad_soucar.github.io/files/QuantumNoise_Slides.pdf'
-paperurl: 'http://jad_soucar.github.io/files/QuantumNoise.pdf'
+slidesurl: 'http://JadSoucar.github.io/files/QuantumNoise_Slides.pdf'
+paperurl: 'http://JadSoucar.github.io/files/QuantumNoise.pdf'
 #bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 #citation: 'Jad Soucar, Ninaad Surana. (2024). &quot;Autonomous Trading Using Deep Q Learning &quote;'
 ---

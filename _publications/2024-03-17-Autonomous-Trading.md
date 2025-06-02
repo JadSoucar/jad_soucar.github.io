@@ -7,7 +7,7 @@ excerpt: ' In this paper, we explore the application of Deep Reinforcement Learn
 date: 2024-03-17
 #venue: 'Journal 1'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://jad_soucar.github.io/files/RLTradingwithRisk_Soucar_Surana.pdf'
+paperurl: 'http://JadSoucar.github.io/files/RLTradingwithRisk_Soucar_Surana.pdf'
 #bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 #citation: 'Jad Soucar, Ninaad Surana. (2024). &quot;Autonomous Trading Using Deep Q Learning &quote;'
 ---
