@@ -1,0 +1,13 @@
+/* Default light mode */
+.page__footer {
+  border-top: none;
+  padding: 1.5em 0;
+}
+
+.page__footer .wrapper {
+  max-width: 800px;
+  margin: 0 auto;
+  border-top: 1px solid #ccc;
+  padding-top: 1em;
+  text-align: center;
+}
